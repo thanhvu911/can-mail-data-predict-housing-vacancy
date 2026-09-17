@@ -1,0 +1,85 @@
+County,State,Year,Census Vacancy Rate,USPS Vacancy Rate (Narrow),USPS Vacancy Rate (Broad),Gap Census Minus USPS Narrow,Gap Census Minus USPS Broad,Census YoY Direction,USPS YoY Direction (Narrow),Direction Match (Narrow)
+Lancaster,PA,2010,0.045,0.0077,0.0781,0.0373,-0.0331,(first year),(first year),
+Lancaster,PA,2011,0.0562,0.0081,0.0765,0.0481,-0.0203,Up,Up,Match
+Lancaster,PA,2012,0.0516,0.0084,0.0982,0.0432,-0.0466,Down,Up,No Match
+Lancaster,PA,2013,0.0513,0.0089,0.0984,0.0425,-0.0471,Down,Up,No Match
+Lancaster,PA,2014,0.0565,0.008,0.1022,0.0485,-0.0457,Up,Down,No Match
+Lancaster,PA,2015,0.0455,0.007,0.1008,0.0385,-0.0553,Down,Down,Match
+Lancaster,PA,2016,0.0529,0.0059,0.0981,0.047,-0.0451,Up,Down,No Match
+Lancaster,PA,2017,0.0462,0.0057,0.0983,0.0405,-0.0521,Down,Down,Match
+Lancaster,PA,2018,0.046,0.0054,0.0974,0.0406,-0.0514,Down,Down,Match
+Lancaster,PA,2019,0.0403,0.0058,0.0989,0.0346,-0.0586,Down,Up,No Match
+Lancaster,PA,2021,0.0366,0.0062,0.0983,0.0304,-0.0617,Down,Up,No Match
+Lancaster,PA,2022,0.0318,0.0061,0.097,0.0258,-0.0652,Down,Down,Match
+Lancaster,PA,2023,0.0392,0.0068,0.1039,0.0324,-0.0648,Up,Up,Match
+Lancaster,PA,2024,0.019,0.0073,0.1091,0.0117,-0.0901,Down,Up,No Match
+Montgomery,OH,2010,0.1237,0.0782,0.0972,0.0456,0.0266,(first year),(first year),
+Montgomery,OH,2011,0.1211,0.0769,0.0997,0.0443,0.0215,Down,Down,Match
+Montgomery,OH,2012,0.1298,0.0753,0.1359,0.0545,-0.0061,Up,Down,No Match
+Montgomery,OH,2013,0.1307,0.0769,0.1381,0.0539,-0.0074,Up,Up,Match
+Montgomery,OH,2014,0.1284,0.0726,0.1332,0.0558,-0.0048,Down,Down,Match
+Montgomery,OH,2015,0.1212,0.0648,0.1247,0.0564,-0.0035,Down,Down,Match
+Montgomery,OH,2016,0.1224,0.0604,0.1192,0.0621,0.0033,Up,Down,No Match
+Montgomery,OH,2017,0.1166,0.0619,0.1216,0.0546,-0.005,Down,Up,No Match
+Montgomery,OH,2018,0.1201,0.0627,0.123,0.0573,-0.003,Up,Up,Match
+Montgomery,OH,2019,0.1186,0.0618,0.1226,0.0568,-0.004,Down,Down,Match
+Montgomery,OH,2021,0.1004,0.061,0.1238,0.0394,-0.0234,Down,Down,Match
+Montgomery,OH,2022,0.0682,0.0583,0.1187,0.0099,-0.0505,Down,Down,Match
+Montgomery,OH,2023,0.0709,0.0561,0.1177,0.0148,-0.0468,Up,Down,No Match
+Montgomery,OH,2024,0.0867,0.0549,0.1161,0.0318,-0.0294,Up,Down,No Match
+Champaign,IL,2010,0.1043,0.0336,0.1182,0.0707,-0.0138,(first year),(first year),
+Champaign,IL,2011,0.1037,0.0349,0.1246,0.0688,-0.021,Down,Up,No Match
+Champaign,IL,2012,0.0928,0.036,0.1662,0.0569,-0.0734,Down,Up,No Match
+Champaign,IL,2013,0.1132,0.0364,0.1675,0.0769,-0.0543,Up,Up,Match
+Champaign,IL,2014,0.0881,0.0308,0.1613,0.0573,-0.0732,Down,Down,Match
+Champaign,IL,2015,0.1195,0.028,0.1552,0.0915,-0.0357,Up,Down,No Match
+Champaign,IL,2016,0.1058,0.026,0.1524,0.0798,-0.0466,Down,Down,Match
+Champaign,IL,2017,0.1041,0.0268,0.1493,0.0774,-0.0452,Down,Up,No Match
+Champaign,IL,2018,0.0976,0.0291,0.1498,0.0685,-0.0522,Down,Up,No Match
+Champaign,IL,2019,0.1366,0.0302,0.1494,0.1064,-0.0128,Up,Up,Match
+Champaign,IL,2021,0.1107,0.0274,0.1468,0.0834,-0.036,Down,Down,Match
+Champaign,IL,2022,0.1105,0.0264,0.1448,0.0842,-0.0343,Down,Down,Match
+Champaign,IL,2023,0.0714,0.0271,0.1533,0.0442,-0.0819,Down,Up,No Match
+Champaign,IL,2024,0.0711,0.0305,0.1634,0.0407,-0.0923,Down,Up,No Match
+King,WA,2010,0.075,0.0253,0.059,0.0497,0.016,(first year),(first year),
+King,WA,2011,0.0667,0.0248,0.0574,0.0419,0.0093,Down,Down,Match
+King,WA,2012,0.0648,0.0212,0.0975,0.0436,-0.0327,Down,Down,Match
+King,WA,2013,0.0564,0.0203,0.0971,0.0361,-0.0407,Down,Down,Match
+King,WA,2014,0.0628,0.0182,0.0959,0.0446,-0.0331,Up,Down,No Match
+King,WA,2015,0.0528,0.0141,0.0961,0.0387,-0.0433,Down,Down,Match
+King,WA,2016,0.0538,0.0126,0.0934,0.0413,-0.0395,Up,Down,No Match
+King,WA,2017,0.062,0.0132,0.0945,0.0488,-0.0325,Up,Up,Match
+King,WA,2018,0.0579,0.0137,0.097,0.0441,-0.0392,Down,Up,No Match
+King,WA,2019,0.0645,0.0138,0.0984,0.0507,-0.0339,Up,Up,Match
+King,WA,2021,0.0615,0.0136,0.0989,0.0479,-0.0375,Down,Down,Match
+King,WA,2022,0.0594,0.014,0.0987,0.0454,-0.0393,Down,Up,No Match
+King,WA,2023,0.0704,0.0133,0.105,0.0571,-0.0346,Up,Down,No Match
+King,WA,2024,0.0613,0.013,0.1069,0.0483,-0.0456,Down,Down,Match
+Cook,IL,2010,0.1182,0.0505,0.0776,0.0677,0.0406,(first year),(first year),
+Cook,IL,2011,0.1191,0.0494,0.0761,0.0697,0.043,Up,Down,No Match
+Cook,IL,2012,0.1096,0.0458,0.1125,0.0638,-0.0029,Down,Down,Match
+Cook,IL,2013,0.1062,0.0444,0.1145,0.0617,-0.0084,Down,Down,Match
+Cook,IL,2014,0.109,0.0417,0.1136,0.0673,-0.0046,Up,Down,No Match
+Cook,IL,2015,0.1027,0.0349,0.1072,0.0678,-0.0046,Down,Down,Match
+Cook,IL,2016,0.0998,0.0314,0.1033,0.0683,-0.0035,Down,Down,Match
+Cook,IL,2017,0.1116,0.0328,0.1042,0.0788,0.0075,Up,Up,Match
+Cook,IL,2018,0.0993,0.0331,0.1041,0.0662,-0.0048,Down,Up,No Match
+Cook,IL,2019,0.0991,0.0335,0.1056,0.0657,-0.0065,Down,Up,No Match
+Cook,IL,2021,0.0863,0.0329,0.104,0.0534,-0.0177,Down,Down,Match
+Cook,IL,2022,0.0707,0.0321,0.1042,0.0385,-0.0335,Down,Down,Match
+Cook,IL,2023,0.0718,0.0327,0.1042,0.0392,-0.0324,Up,Up,Match
+Cook,IL,2024,0.0702,0.0323,0.1034,0.0379,-0.0333,Down,Down,Match
+Onondaga,NY,2010,0.0881,0.029,0.0619,0.0591,0.0262,(first year),(first year),
+Onondaga,NY,2011,0.1058,0.0293,0.0622,0.0765,0.0436,Up,Up,Match
+Onondaga,NY,2012,0.0846,0.0301,0.1113,0.0545,-0.0268,Down,Up,No Match
+Onondaga,NY,2013,0.0951,0.0321,0.1164,0.0631,-0.0213,Up,Up,Match
+Onondaga,NY,2014,0.0929,0.0326,0.1135,0.0603,-0.0207,Down,Up,No Match
+Onondaga,NY,2015,0.1094,0.0291,0.1098,0.0804,-0.0003,Up,Down,No Match
+Onondaga,NY,2016,0.1095,0.0309,0.112,0.0786,-0.0025,Up,Up,Match
+Onondaga,NY,2017,0.1094,0.0332,0.116,0.0763,-0.0066,Down,Up,No Match
+Onondaga,NY,2018,0.1161,0.0341,0.1184,0.082,-0.0024,Up,Up,Match
+Onondaga,NY,2019,0.1265,0.0349,0.1193,0.0916,0.0072,Up,Up,Match
+Onondaga,NY,2021,0.064,0.0309,0.1173,0.0331,-0.0533,Down,Down,Match
+Onondaga,NY,2022,0.0553,0.0303,0.1178,0.025,-0.0625,Down,Down,Match
+Onondaga,NY,2023,0.0641,0.0319,0.1233,0.0322,-0.0591,Up,Up,Match
+Onondaga,NY,2024,0.0587,0.0331,0.1275,0.0256,-0.0689,Down,Up,No Match

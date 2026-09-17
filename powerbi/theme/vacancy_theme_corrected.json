@@ -1,0 +1,45 @@
+{
+  "name": "Vacancy Comparison Theme",
+  "dataColors": [
+    "#2a78d6",
+    "#eb6834",
+    "#1baf7a",
+    "#eda100",
+    "#e87ba4",
+    "#008300"
+  ],
+  "background": "#fcfcfb",
+  "foreground": "#0b0b0b",
+  "tableAccent": "#2a78d6",
+  "good": "#0ca30c",
+  "neutral": "#898781",
+  "bad": "#d03b3b",
+  "maximum": "#2a78d6",
+  "center": "#f0efec",
+  "minimum": "#e34948",
+  "textClasses": {
+    "callout": { "fontSize": 32, "color": "#0b0b0b" },
+    "title": { "fontSize": 14, "color": "#0b0b0b", "fontFace": "Segoe UI Semibold" },
+    "label": { "fontSize": 10, "color": "#52514e" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#fcfcfb" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#0b0b0b" } }, "fontSize": 32 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#52514e" } }, "fontSize": 12 }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "gridline": [{ "show": true, "color": "#e1e0d9" }],
+        "categoryAxis": [{ "color": "#898781", "gridlineColor": { "solid": { "color": "#e1e0d9" } } }],
+        "valueAxis": [{ "color": "#898781", "gridlineColor": { "solid": { "color": "#e1e0d9" } } }]
+      }
+    }
+  }
+}
