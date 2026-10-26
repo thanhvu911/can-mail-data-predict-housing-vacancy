@@ -122,6 +122,24 @@ silently dropping the filename column) that had to be fixed to get it working co
   reproducible from [`data/comparison_table.csv`](data/comparison_table.csv) with plain
   arithmetic (see [`docs/data-dictionary.md`](docs/data-dictionary.md)).
 
+## Pipeline, data model & code
+
+**Data flow**
+
+![Data flow](assets/dataflow.png)
+
+**Data model**
+
+![Data model](assets/data-model.png)
+
+**Code: dataflow gen2 lakehouse**
+
+![Code: dataflow gen2 lakehouse](assets/code-dataflow-gen2-lakehouse.png)
+
+**Code: pearson correlation**
+
+![Code: pearson correlation](assets/code-pearson-correlation.png)
+
 ## Repository structure
 
 ```
