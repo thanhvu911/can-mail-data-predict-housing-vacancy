@@ -124,6 +124,8 @@ silently dropping the filename column) that had to be fixed to get it working co
 
 ## Pipeline, data model & code
 
+_Diagrams are editable in draw.io: [`docs/diagrams/`](docs/diagrams)._
+
 **Data flow**
 
 ![Data flow](assets/dataflow.png)
@@ -131,10 +133,6 @@ silently dropping the filename column) that had to be fixed to get it working co
 **Data model**
 
 ![Data model](assets/data-model.png)
-
-**Code: dataflow gen2 lakehouse**
-
-![Code: dataflow gen2 lakehouse](assets/code-dataflow-gen2-lakehouse.png)
 
 **Code: pearson correlation**
 
@@ -164,15 +162,6 @@ silently dropping the filename column) that had to be fixed to get it working co
 ├── assets/                   — the three summary charts + a blank dashboard wireframe
 └── screenshots/              — the live report, filtered one county at a time
 ```
-
-## Suggested GitHub topics
-
-`power-bi` `microsoft-fabric` `dataflow-gen2` `dax` `power-query` `data-analytics`
-`data-visualization` `census-data` `usps` `government-data` `economic-development`
-`data-storytelling`
-
-*(Add these under this repo's **Settings → General → Topics** — they aren't set from a
-file, just typed into that field.)*
 
 ## License
 
