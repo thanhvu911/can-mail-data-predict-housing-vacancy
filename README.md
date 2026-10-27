@@ -126,17 +126,23 @@ silently dropping the filename column) that had to be fixed to get it working co
 
 _Diagrams are editable in draw.io: [`docs/diagrams/`](docs/diagrams)._
 
-**Data flow**
+**Data flow: Fabric Lakehouse to Power BI**
 
-![Data flow](assets/dataflow.png)
+![Data flow: Fabric Lakehouse to Power BI](assets/dataflow.png)
 
-**Data model**
+**Data model: Dataflow Gen2 query lineage**
 
-![Data model](assets/data-model.png)
+![Data model: Dataflow Gen2 query lineage](assets/data-model.png)
 
-**Code: pearson correlation**
+**Dataflow Gen2 in Fabric: query diagram view**
 
-![Code: pearson correlation](assets/code-pearson-correlation.png)
+![Dataflow Gen2 in Fabric: query diagram view](assets/fabric-dataflow-gen2-diagram-view.png)
+
+The live dataflow: helper queries combine the quarterly USPS files into **USPS Data** (21 steps) and roll them up into **USPS Annual**; the Census helper queries parse each ACS file; **Comparison** (23 steps) merges both on County FIPS + Year.
+
+**DAX: hand-built Pearson correlation measure**
+
+![DAX: hand-built Pearson correlation measure](assets/code-pearson-correlation.png)
 
 ## Repository structure
 
